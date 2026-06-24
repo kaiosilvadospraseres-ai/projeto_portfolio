@@ -1,0 +1,103 @@
+.icones{
+    width: 70%;
+    gap: 100px;
+    display: flex;
+    flex-direction: column; 
+    margin: auto;
+}
+
+.icones img:hover{
+    background-color: gray;
+    border-radius: 100%;
+}
+
+
+.icones img{
+    max-width: 100%;
+}
+
+.carro {
+  background-color: white;
+  border: solid black 4px;
+  border-radius: 50%;
+}
+
+.aviao {
+  background-color: white; 
+  border: solid black 4px;
+   border-radius: 50%;
+}
+
+.musica {
+  background-color: white; 
+  border: solid black 4px;
+   border-radius: 50%;
+}
+
+.curriculo {
+  background-color: white; 
+  border: solid black 4px;
+   border-radius: 50%;
+}
+
+body{
+    height: 100vh; 
+    background: linear-gradient(rgb(255, 255, 255));
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    justify-content: center;
+    gap: 100px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    font-size: 180%;
+    color: white;
+    list-style-type: none;
+    margin: auto;
+    background-color: black;
+}
+
+.estrutura{
+    display: flex;
+    max-width: 90%;
+    height: 100vh;
+    justify-content: center;
+    
+}
+
+.kaio{
+    display: flex;
+    width: 20%;
+    border-radius: 60%;
+    border: solid black 3px;
+    margin-left: 41%;
+    margin-top: 0;
+}
+
+.texto{
+    margin-right: 30%;
+    width: 70%;
+    margin: auto;
+}
+
+.texto p{
+    font-size: 170%;
+    text-align: justify;
+    margin: 0;
+    color: black;
+}
+
+.coluna{
+    background-color: black;
+    width: 10%;
+    height:100vh;
+}
+
+
+

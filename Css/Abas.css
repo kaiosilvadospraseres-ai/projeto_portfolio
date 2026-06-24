@@ -1,0 +1,76 @@
+.palavra-link {
+  color: white;
+  cursor: pointer;
+  text-decoration: underline;
+  position: relative; 
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+.aba-flutuante {
+  display: none; 
+  position: absolute;
+  top: 100%; 
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+  padding: 15px;
+  border-radius: 8px;
+  width: 500%;
+  z-index: 10; 
+  background: linear-gradient(black,gray);
+  font-size:105%;
+  text-align: justify;
+}
+
+.palavra-link:hover .aba-flutuante {
+  display: block;
+}
+
+
+.aba-flutuante2 {
+  display: none; 
+  position: absolute;
+  top: 100%; 
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+  padding: 15px;
+  border-radius: 8px;
+  width: 500%;
+  z-index: 10; 
+  background: linear-gradient(black,gray);
+  font-size:105%;
+  text-align: justify;
+}
+
+.palavra-link:hover .aba-flutuante2 {
+  display: block;
+}
+
+
+.aba-flutuante3 {
+  display: none; 
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+  padding: 15px;
+  border-radius: 8px;
+  width: 500%;
+  z-index: 10; 
+  background: linear-gradient(black,gray);
+  font-size:105%;
+  text-align: justify;
+}
+
+.palavra-link:hover .aba-flutuante3 {
+  display: block;
+}
+
+
