@@ -1,0 +1,70 @@
+.icones{
+    width: 20%;
+    margin: auto;
+}
+
+.icones img{
+    max-width: 100%;
+}
+
+.carro {
+  background-color: white;
+  border: solid black 4px;
+  border-radius: 50%;
+}
+
+.aviao {
+  background-color: white; 
+  border: solid black 4px;
+   border-radius: 50%;
+}
+
+.musica {
+  background-color: white; 
+  border: solid black 4px;
+   border-radius: 50%;
+}
+
+.curriculo {
+  background-color: white; 
+  border: solid black 4px;
+   border-radius: 50%;
+}
+
+body{
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    font-size: 120%;
+    color: white;
+    list-style-type: none;
+    margin: auto;
+    background-color: black;
+    gap: 5%;
+    justify-content: center;
+}
+
+.palavra-link:hover{
+    color: rgb(196, 6, 44);
+}
+
+.imagem{
+    background-color: aqua;
+}
+
+.texto{
+    background-color: red;
+}
+
+.container{
+    display: flex;
+}
+
+.imagem,p{
+    color: blue;
+    margin-top: 60%;
+}
