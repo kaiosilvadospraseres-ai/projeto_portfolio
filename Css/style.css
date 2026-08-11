@@ -1,0 +1,32 @@
+body{
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(55, 54, 54);  
+}
+ul{
+    display: flex;
+    font-size: 120%;
+    color: white;
+    list-style-type: none;
+    margin: auto;
+    background-color: rgb(36, 35, 35);
+    gap: 5%;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+}
+
+.container2{
+    display: flex;
+}
+
+span{
+    color:rgb(3, 199, 213) ;
+}
+
+
+

@@ -11,3 +11,17 @@
     border: 5px solid  rgb(3, 199, 213);
     border-radius: 20%;
 }
+
+.imagem{
+    display: flex;
+    background-color: rgb(36, 35, 35);
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem2{
+    display: flex;
+    background-color: rgb(55, 54, 54);
+    justify-content: center;
+    align-items: center;
+}
