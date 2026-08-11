@@ -8,3 +8,12 @@
     font-size: 150%;
     text-decoration: none;
 }
+
+.github{
+    text-decoration: none;
+    color: white;
+}
+
+.github:hover{
+    color: gray;
+}

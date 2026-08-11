@@ -7,3 +7,8 @@
     background-color: rgb(55, 54, 54);
     max-width: 70%;
 }
+
+.texto-aba{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 120%;
+}
