@@ -1,9 +1,24 @@
-.meus-projetos{
-    background-color:rgb(36, 35, 35) ;
-    text-align: center;
-}
+
 
 .curriculo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.viagens{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.carros{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.playlist{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 150%;
     text-decoration: none;
@@ -15,5 +30,14 @@
 }
 
 .github:hover{
+    color: gray;
+}
+
+.telefone{
+    text-decoration: none;
+    color: white;
+}
+
+.telefone:hover{
     color: gray;
 }
