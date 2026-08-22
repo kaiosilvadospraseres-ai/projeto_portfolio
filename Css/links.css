@@ -2,35 +2,35 @@
 
 .curriculo{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 200%;
+    font-size: 100%;
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .viagens{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 200%;
+    font-size: 100%;
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .carros{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 200%;
+    font-size: 100%;
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .playlist{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 200%;
+    font-size: 100%;
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .github{
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .github:hover{
@@ -39,12 +39,12 @@
 
 .telefone{
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .linkedin{
     text-decoration: none;
-    color: white;
+    color: rgb(3, 199, 213);
 }
 
 .linkedin:hover{
@@ -76,5 +76,5 @@
     justify-content: center;
     gap: 10%;
     margin-top: 3%;
-    border: 4px solid white;
+
 }

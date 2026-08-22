@@ -1,10 +1,9 @@
 body{
-    height: 100%; 
+    height: 100vh; 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(36, 35, 35);
-    
+    background-color: rgb(5, 6, 34);
 }
 ul{
     display: flex;
@@ -12,13 +11,14 @@ ul{
     color: white;
     list-style-type: none;
     margin: auto;
-    background-color: rgb(36, 35, 35);
+    background-color: rgb(1, 2, 16);
     gap: 5%;
     justify-content: center;
 }
 
 .container{
     display: flex;
+    max-height: 50%;
 }
 
 .container2{
@@ -31,9 +31,13 @@ span{
 }
 
 .meus-projetos{
-    background-color:rgb(36, 35, 35) ;
+    background-color:rgb(5, 6, 34) ;
     text-align: center;
     align-items: center;
-    gap: 1%;
-    display: grid;
+    gap: 2%;
+    display: flex;
+    height: 40%;
+}
+hr{
+    margin: 0%;
 }
