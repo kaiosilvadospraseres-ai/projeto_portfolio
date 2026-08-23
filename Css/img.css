@@ -28,26 +28,26 @@
 }
 
 .curriculo1{
-    height: 100%;
-    width: 130%;
+    max-height: 100%;
+    max-width: 130%;
     align-items: center;
 }
 
 .aviao1{
-     height: 80%;
-    width: 110%;
+    max-height: 80%;
+    max-width: 110%;
    margin-top: 20%;
 }
 
 .carro1{
-     height: 100%;
-    width: 110%;
+    max-height: 100%;
+    max-width: 110%;
     align-items: center;
 }
 
 .play1{
-     height: 70%;
-    width: 100%;
+    max-height: 70%;
+    max-width: 100%;
     align-items: center;
     margin-top: 30%;
     margin-left: 5%;
