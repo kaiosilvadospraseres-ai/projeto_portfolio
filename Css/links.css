@@ -5,6 +5,8 @@
     font-size: 100%;
     text-decoration: none;
     color: rgb(3, 199, 213);
+    background-color: black;
+    margin: 0%;
 }
 
 .viagens{
@@ -12,6 +14,8 @@
     font-size: 100%;
     text-decoration: none;
     color: rgb(3, 199, 213);
+    background-color: black;
+    margin: 0%;
 }
 
 .carros{
@@ -19,6 +23,8 @@
     font-size: 100%;
     text-decoration: none;
     color: rgb(3, 199, 213);
+    background-color: black;
+    margin: 0%;
 }
 
 .playlist{
@@ -26,6 +32,8 @@
     font-size: 100%;
     text-decoration: none;
     color: rgb(3, 199, 213);
+    background-color: black;
+    margin: 0%;
 }
 
 .github{
@@ -75,6 +83,22 @@
     display: flex;
     justify-content: center;
     gap: 10%;
-    margin-top: 3%;
+    background-color: rgb(5, 6, 34);
+    margin-left: 3%;
+    margin-right: 3%;
+}
 
+.git{
+    border-radius: 5%;
+    border: solid aqua 2px;
+}
+
+.tel{
+    border-radius: 5%;
+    border: solid aqua 2px;
+}
+
+.link{
+    border-radius: 5%;
+    border: solid aqua 2px;
 }

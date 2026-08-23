@@ -14,7 +14,7 @@
 
 .imagem{
     display: flex;
-    background-color: rgb(5, 6, 34);
+    background-color: #050D1A;
     justify-content: center;
     align-items: center;
     max-height: 50%;
@@ -22,7 +22,48 @@
 
 .imagem2{
     display: flex;
-    background-color: rgb(5, 6, 34);
+    background-color: #050D1A;
     justify-content: center;
     align-items: center;
+}
+
+.curriculo1{
+    height: 100%;
+    width: 130%;
+    align-items: center;
+}
+
+.aviao1{
+     height: 80%;
+    width: 110%;
+   margin-top: 20%;
+}
+
+.carro1{
+     height: 100%;
+    width: 110%;
+    align-items: center;
+}
+
+.play1{
+     height: 70%;
+    width: 100%;
+    align-items: center;
+    margin-top: 30%;
+    margin-left: 5%;
+}
+
+.git1{
+    max-width: 40%;
+    max-height: 50%;
+}
+
+.tel1{
+    max-width: 40%;
+    max-height: 50%;
+}
+
+.link1{
+    max-width: 40%;
+    max-height: 50%;
 }

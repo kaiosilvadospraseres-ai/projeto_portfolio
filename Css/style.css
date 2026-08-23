@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(5, 6, 34);
+    background-color: #050D1A;
 }
 ul{
     display: flex;
@@ -11,7 +11,7 @@ ul{
     color: white;
     list-style-type: none;
     margin: auto;
-    background-color: rgb(1, 2, 16);
+    background-color: rgb(2, 4, 29);
     gap: 5%;
     justify-content: center;
 }
@@ -31,13 +31,55 @@ span{
 }
 
 .meus-projetos{
-    background-color:rgb(5, 6, 34) ;
-    text-align: center;
+    background-color:#050D1A ;
+    text-align: justify;
     align-items: center;
     gap: 2%;
     display: flex;
     height: 40%;
+    margin-left: 3%;
+    margin-right:3% ;
 }
 hr{
     margin: 0%;
+    
 }
+
+.site1{
+    display: grid;
+    align-items: center;
+}
+
+.site2{
+     display: grid;
+     align-items: center;
+}
+
+.site3{
+     display: grid;
+     align-items: center;
+}
+
+.site4{
+     display: grid;
+     align-items: center;
+}
+
+.git{
+    display: flex;
+    align-items: center;
+    height: 50%;
+}
+
+.tel{
+    display: flex;
+    align-items: center;
+   height: 50%;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    height: 50%;
+}
+
