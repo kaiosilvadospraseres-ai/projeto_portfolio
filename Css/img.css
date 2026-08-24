@@ -31,25 +31,27 @@
     max-height: 100%;
     max-width: 130%;
     align-items: center;
+    margin-top: 60%;
 }
 
 .aviao1{
     max-height: 80%;
     max-width: 110%;
-   margin-top: 20%;
+   margin-top: 60%;
 }
 
 .carro1{
     max-height: 100%;
     max-width: 110%;
     align-items: center;
+    margin-top: 60%;
 }
 
 .play1{
     max-height: 70%;
     max-width: 100%;
     align-items: center;
-    margin-top: 30%;
+    margin-top: 80%;
     margin-left: 5%;
 }
 
